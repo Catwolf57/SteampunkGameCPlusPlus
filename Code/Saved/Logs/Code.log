@@ -774,3 +774,47 @@ LogInit: Object subsystem initialized
 [2018.07.16-17.46.51:328][544]LogSlate: Window 'Delete Assets' being destroyed
 [2018.07.16-17.46.56:025][544]LogShaderCompilers: Display: Shaders left to compile 22
 [2018.07.16-17.47.17:340][547]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.16-17.47.23:196][548]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.16-17.47.29:466][548]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.16-17.47.38:510][620]LogDerivedDataCache: Warning: C:/Users/caleb/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.33MB/s) when accessing C:/Users/caleb/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DE0D9E10433FBEA33818BBA98B703CD4_0__D6DFB3AE92B6C48FCACCD23F11D094987157654E.udd, consider disabling it.
+[2018.07.16-17.47.39:372][620]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.16-17.47.53:279][756]LogSavePackage: Save=1155.90ms
+[2018.07.16-17.47.53:279][756]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/FirstPersonExampleMap6BFED18849AEA95358EEB288AE9091BE.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.07.16-17.47.53:304][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.07.16-17.48.05:272][756]LogSavePackage: Save=10573.82ms
+[2018.07.16-17.48.05:277][756]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/FirstPersonExampleMap_BuiltDataF8AA9537491CB0382CEAA6B4946052E9.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.07.16-17.48.05:286][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.07.16-17.57.52:040][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.104
+[2018.07.16-17.57.52:516][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Models/BitsAndPieces/Gear] ([1] browsable assets)...
+[2018.07.16-17.57.52:564][564]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Models/BitsAndPieces/Gear.Gear]
+[2018.07.16-17.57.52:564][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Models/BitsAndPieces/Gear]
+[2018.07.16-17.57.54:212][564]LogSavePackage: Save=1639.22ms
+[2018.07.16-17.57.54:215][564]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Gear_Auto196A2972D492C8DA61C601F9DA5AC85EC.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Autosaves/Game/FirstPersonBP/Models/BitsAndPieces/Gear_Auto1.uasset'
+[2018.07.16-17.57.54:221][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Autosaves/Game/FirstPersonBP/Models/BitsAndPieces/Gear_Auto1.uasset
+[2018.07.16-17.57.54:286][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Models/Monsters/Seer] ([1] browsable assets)...
+[2018.07.16-17.57.54:324][564]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Models/Monsters/Seer.Seer]
+[2018.07.16-17.57.54:324][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Models/Monsters/Seer]
+[2018.07.16-17.57.54:373][564]LogSavePackage: Save=42.59ms
+[2018.07.16-17.57.54:373][564]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Seer_Auto1E339B6B6464A10C937A7B6AE01648DF1.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Autosaves/Game/FirstPersonBP/Models/Monsters/Seer_Auto1.uasset'
+[2018.07.16-17.57.54:379][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Autosaves/Game/FirstPersonBP/Models/Monsters/Seer_Auto1.uasset
+[2018.07.16-17.57.54:379][564]LogFileHelpers: Auto-saving content packages took 2.336
+[2018.07.16-18.21.30:695][887]LogSlate: Window 'Save Content' being destroyed
+[2018.07.16-18.21.35:809][887]LogSavePackage: Save=44.01ms
+[2018.07.16-18.21.35:809][887]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Gear6A4BF3DF43EAAB9A83FE059592C8E392.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Models/BitsAndPieces/Gear.uasset'
+[2018.07.16-18.21.35:828][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Models/BitsAndPieces/Gear.uasset
+[2018.07.16-18.21.36:591][887]SourceControl: Error: fatal: Unable to create 'C:/Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/.git/index.lock': File exists.
+[2018.07.16-18.21.36:591][887]SourceControl: Error: Another git process seems to be running in this repository, e.g.
+[2018.07.16-18.21.36:591][887]SourceControl: Error: an editor opened by 'git commit'. Please make sure all processes
+[2018.07.16-18.21.36:591][887]SourceControl: Error: are terminated then try again. If it still fails, a git process
+[2018.07.16-18.21.36:591][887]SourceControl: Error: may have crashed in this repository earlier:
+[2018.07.16-18.21.36:591][887]SourceControl: Error: remove the file manually to continue.
+[2018.07.16-18.21.36:961][887]LogSavePackage: Save=37.17ms
+[2018.07.16-18.21.36:961][887]LogSavePackage: Moving '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Saved/Seer89F856EB415F79AA1CD01DA08AC496B8.tmp' to '../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Models/Monsters/Seer.uasset'
+[2018.07.16-18.21.36:973][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/Code/Content/FirstPersonBP/Models/Monsters/Seer.uasset
+[2018.07.16-18.21.37:287][887]SourceControl: Error: fatal: Unable to create 'C:/Users/caleb/OneDrive/Documents/Unreal Projects/SteampunkGameCPlusPlus/.git/index.lock': File exists.
+[2018.07.16-18.21.37:287][887]SourceControl: Error: Another git process seems to be running in this repository, e.g.
+[2018.07.16-18.21.37:287][887]SourceControl: Error: an editor opened by 'git commit'. Please make sure all processes
+[2018.07.16-18.21.37:287][887]SourceControl: Error: are terminated then try again. If it still fails, a git process
+[2018.07.16-18.21.37:287][887]SourceControl: Error: may have crashed in this repository earlier:
+[2018.07.16-18.21.37:287][887]SourceControl: Error: remove the file manually to continue.
+[2018.07.16-18.21.39:009][887]LogSlate: Window 'Code - Unreal Editor' being destroyed
