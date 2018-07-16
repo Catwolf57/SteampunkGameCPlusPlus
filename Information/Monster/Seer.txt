@@ -1,9 +1,0 @@
-A manifested being by the Demon Lord [name] used to search the world for knowledge.
-
-Hostility: Hostile.
-Health: 400
-Armor: 0
-Attacks:
-Blast- the seer charges up a blast for 3 seconds and fires a huge laser dealing 130-200 laser damage.
-Rapid Fire- the seer shoots 6 mini lasers each one dealing 30-40 laser damage.
-Claw- the seer gouges its claw into the target dealing 20-30 poison damage and has a 60% chance of poisoning the target.
